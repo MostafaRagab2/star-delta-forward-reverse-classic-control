@@ -1,1 +1,2 @@
 # star-delta-forward-reverse-classic-control
+This project is a classic control circuit designed and simulated using CADe_SIMU. It implements Star-Delta motor starting with Forward and Reverse rotation control. The circuit includes proper interlocking to ensure safe operation and reduce inrush current during startup. It's useful for learning motor control fundamentals and practicing with real-world circuits.
